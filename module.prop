@@ -1,0 +1,6 @@
+id=hoshitele
+name=星屑☆テレパス
+version=AGH v1.0.0-b.1 + SmartDNS 48.4
+versionCode=10000001
+author=ココロスペアキー
+description=本地部署AdGuardHome与SmartDNS以优化网络体验。升级刷入自动保留原配置（DNS重写/黑白名单等），模块不含任何个人数据
